@@ -13,7 +13,7 @@
         "sizes": "192x192"
       }
     ],
-    "start_url": "https://erickmtz06.github.io/Erick_Martinez_CV/",
+    "start_url": "./",
     "background_color": "#FF8A33",
     "display": "standalone",
     "scope": "/",
