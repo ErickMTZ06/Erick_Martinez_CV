@@ -1,0 +1,21 @@
+{
+    "short_name": "EM CV",
+    "name": "Erick Martinez CV",
+    "icons": [
+      {
+        "src": "/assets/img/EM-icon.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      },
+      {
+        "src": "/assets/img/EM-icon.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      }
+    ],
+    "start_url": "http://127.0.0.1:5500/",
+    "background_color": "#FF8A33",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#FF8A33"
+  }
